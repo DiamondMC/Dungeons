@@ -1,0 +1,4 @@
+name: F9
+version: '${project.version}'
+main: me.diamondmc.f9.F9
+authors: [ DiamondMC ]
